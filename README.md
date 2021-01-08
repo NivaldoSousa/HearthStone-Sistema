@@ -39,6 +39,7 @@ No mesmo caminho do README.md se encontra o arquivo HearthStone.postman_collecti
 Obrigado!!!
 
 
+
 Exemplos de Requisiçoes no Postman
 
 POST Criar Cartas
