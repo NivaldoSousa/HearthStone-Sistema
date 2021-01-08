@@ -65,11 +65,12 @@ OU
 
 {"tipo": "MAGIA"}       
         
-GET Listar Todas as Cartas
+GET Listar Todas as Cartas ->
 http://localhost:8080/carta
 
-DELETE Deletar Cartas
+DELETE Deletar Cartas ->
 http://localhost:8080/carta/1
+
 ou qualquer outro id que esteja criado no H2dataBase
           
 
