@@ -42,6 +42,8 @@ Obrigado!!!
 
 Exemplos de Requisiçoes no Postman
 
+URL de requisição -> http://localhost:8080/carta
+
 POST Criar Cartas
 
 {
