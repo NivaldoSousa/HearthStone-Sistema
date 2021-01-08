@@ -55,21 +55,21 @@ POST Criar Cartas
 
 POST Filtar Cartas
 
-{
-        "nome": "Mago Branco"
-}
+{"nome": "Mago Branco"}
 
 OU
 
-{
-        "classe": "MAGO"
-}       
+{"classe": "MAGO"}       
 
 OU
 
-{       
-        "tipo": "MAGIA"
-}       
+{"tipo": "MAGIA"}       
         
-           
+GET Listar Todas as Cartas
+http://localhost:8080/carta
+
+DELETE Deletar Cartas
+http://localhost:8080/carta/1
+ou qualquer outro id que esteja criado no H2dataBase
+          
 
