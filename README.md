@@ -4,7 +4,7 @@ INSTRUÇOES DE USO
 
 
 1° PASSO - 
- Import o projeto na IDE irá carregar as dependencias por ser um projeto Maven.
+ Import o projeto na IDE, irá carregar as dependencias por ser um projeto Maven.
 O projeto está sendo compliado na versao 11 do Java.
 
 2° PASSO -
@@ -25,7 +25,7 @@ DADO A SER COLOCADO NO CAMPO = jdbc:h2:mem:testdb
 aperte Connect
 
 5° PASSO - 
- Na tabela CARTA que se encontra no lado esquerdo superior da tela de um click em cima dele
+ Na tabela CARTA que se encontra no lado esquerdo superior da tela, de um click em cima dele
 e um SQL sera feito, click em Run.
 Aparecerá alguns registros de cartas ja salva em memória.
 
