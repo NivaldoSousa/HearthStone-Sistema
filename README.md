@@ -53,7 +53,7 @@ POST Criar Cartas
 }
 
 
-POST Filtar Cartas
+POST Filtrar Cartas
 
 {"nome": "Mago Branco"}
 
