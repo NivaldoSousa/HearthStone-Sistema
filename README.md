@@ -37,3 +37,39 @@ Utilize a path “/carta” para acesso as requisições.
 No mesmo caminho do README.md se encontra o arquivo HearthStone.postman_collection.json, import ele para o Postman ele contém todas as requisiçoes prontas.
 
 Obrigado!!!
+
+
+Exemplos de Requisiçoes no Postman
+
+POST Criar Cartas
+
+{
+        "nome": "Mago Branco",
+        "descricao": "Um grande mago da luz",
+        "ataque": 10,
+        "defesa": 10,
+        "classe": "MAGO",
+        "tipo": "MAGIA"
+}
+
+
+POST Filtar Cartas
+
+{
+        "nome": "Mago Branco"
+}
+
+OU
+
+{
+        "classe": "MAGO"
+}       
+
+OU
+
+{       
+        "tipo": "MAGIA"
+}       
+        
+           
+
